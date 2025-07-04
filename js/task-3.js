@@ -1,5 +1,5 @@
 class StringBuilder {
-#value; // приватна властивість
+#value; 
 
   constructor(initialValue) {
     this.#value = initialValue;
